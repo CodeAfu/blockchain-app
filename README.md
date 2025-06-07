@@ -8,7 +8,7 @@
 1. Clone the repository with submodules:
 
 ```bash
-git clone --recursive [your-repo-url]
+git clone --recursive https://github.com/CodeAfu/blockchain-app.git
 ```
 
 2. Follow setup instructions in each subdirectory's README.md
