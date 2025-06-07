@@ -3,4 +3,4 @@
 	url = https://github.com/JaeYip100/smart_contract.git
 [submodule "blockchain-frontend"]
 	path = blockchain-frontend
-	url = https://github.com/CodeAfu/blockchain-app.git
+	url = https://github.com/CodeAfu/blockchain-frontend.git
