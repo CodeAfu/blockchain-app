@@ -1,6 +1,6 @@
 [submodule "smart_contract"]
 	path = smart_contract
-	url = ./smart_contract
+	url = https://github.com/JaeYip100/smart_contract.git
 [submodule "blockchain-frontend"]
 	path = blockchain-frontend
-	url = ./blockchain-frontend
+	url = https://github.com/CodeAfu/blockchain-app.git
