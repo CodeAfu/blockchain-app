@@ -1,6 +1,3 @@
-[submodule "blockchain-app"]
-	path = blockchain-app
-	url = ./blockchain-app
 [submodule "smart_contract"]
 	path = smart_contract
 	url = ./smart_contract
