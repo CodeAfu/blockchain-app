@@ -4,3 +4,6 @@
 [submodule "smart_contract"]
 	path = smart_contract
 	url = ./smart_contract
+[submodule "blockchain-frontend"]
+	path = blockchain-frontend
+	url = ./blockchain-frontend
