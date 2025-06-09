@@ -9,7 +9,18 @@
 
 ```bash
 git clone --recursive https://github.com/CodeAfu/blockchain-app.git
-git submodule update --init --recursive # Use if you missed --recursive on clone
+
+# Use if you missed --recursive on clone
+git submodule update --init --recursive
 ```
 
 2. Follow setup instructions in each subdirectory's README.md
+
+## Commands
+
+```bash
+# Updates
+git submodule update --remote --merge
+git config -f .gitmodules submodule.blockchain-frontend.branch main
+git config -f .gitmodules submodule.smart_contract.branch master
+```
