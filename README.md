@@ -20,7 +20,8 @@ git submodule update --init --recursive
 
 ```bash
 # Updates
-git submodule update --remote --merge
 git config -f .gitmodules submodule.blockchain-frontend.branch main
 git config -f .gitmodules submodule.smart_contract.branch master
+
+git submodule update --remote --merge
 ```
